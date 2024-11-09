@@ -3,15 +3,16 @@
   contents:
     - name: Full Name
       value: Selma Berfin Tanis (Sapci)
-    - name: Date of Birth
-      value: 1997
+    # - name: Date of Birth
+    #   value: 1997
     - name: Languages
       value: English, Turksih
 
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science in Cognitive Psychology
+    - title: 
+      Master of Science in Cognitive Psychology
       institution: Sabanci University | Istanbul, Turkey
       year: Sept 2022 - expected Jun 2025
       description:
@@ -21,9 +22,10 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Arts in Psychology
+    - title:
+      Bachelor of Arts in Psychology
       institution: Sabanci University | Istanbul, Turkey
-      year: Sept 2022 - expected Jun 2025
+      year: Sept 2017 - Jun 2022
       description:
         - CGPA 3.92/4.0
         - Top ranking student in the class of Psychology 2022
@@ -72,13 +74,32 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - TUBITAK 2224-A - Grant Program for Participation in Scientific Meetings Abroad - Jul
+          $2000, International conference participation grant for Turkish scientists
+        - The PHC (Hubert Curien Partnership) Bosphorus Programme Project Fund - Jun
+          €1000, Fund for accommodation in France for a project meeting, provided by the French Ministry of Europe and
+          Foreign Affairs (MEAE) & the French Ministry of Higher Education and Research (MESR)
+        - Association for Psychological Science (APS) Student Travel Award - May
+          $250, APS 2024 Annual Convention travel fund
+        - SU Faculty of Arts & Social Sciences (FASS) International Conference Grant - Apr
+          €400, International conference participation grant for selected Sabanci University graduate students
+    - year: 2023
+        - TUBITAK ARDEB Project Scholarship - Sept
+          Monthly stipend (2 years) and project travel fund ($1000)
+    - year: 2022
+        - TUBITAK BIDEB 2210/A MSc/MA Scholarship Program - Sept
+          Monthly stipend (2 years), based on academic achievement (declined)
+        - Sabanci University Graduate Studies Full Scholarship - Sept
+          Sabanci University full tuition fee ($24,500/year, 3 years) and a monthly stipend (2 years)
+    - year: 2017-2022
+      - Sabanci University, Dean’s List - from Fall 2018 to Spring 2022
+        High Honor, present in all semesters
+      - SUGender Scholarship - Gender & Women’s Studies Center of Excellence - Oct 2020
+        Monthly stipend during the academic year
+      - Outstanding Achievement Metin Sabanci Full Scholarship - Sept 2017
+        Sabanci University full tuition fee ($24,500/year, 5 years) and a monthly stipend based on a ranking of 0.15\% in SAT-like nationwide university entrance exam among 2 million high school students
 
 - title: Academic Interests
   type: nested_list
