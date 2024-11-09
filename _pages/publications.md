@@ -5,6 +5,7 @@ title: publications
 nav: true
 nav_order: 3
 ---
+
 ## Book Chapters
 * Aydin, C., Otenen, E., **Tanis, S. B.**, & Senturk, Y. D. (2024). Autobiographical memory. In L. M. Bietti & M. Pogačar (Eds.), The Palgrave Encyclopedia of Memory Studies (pp. 1-15). Palgrave Macmillan, Cham. https://doi.org/10.1007/978-3-030-93789-8_35-1
 

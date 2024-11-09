@@ -2,31 +2,32 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Selma Berfin Tanis (Sapci)
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1997
     - name: Languages
-      value: English, German
+      value: English, Turksih
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science in Cognitive Psychology
+      institution: Sabanci University | Istanbul, Turkey
+      year: Sept 2022 - expected Jun 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - CGPA 3.95/4.00
+        - "Academic Advisor: Dr. Cagla Aydin"
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Bachelor of Arts in Psychology
+      institution: Sabanci University | Istanbul, Turkey
+      year: Sept 2022 - expected Jun 2025
       description:
-        - Description 1.
-        - Description 2.
+        - CGPA 3.92/4.0
+        - Top ranking student in the class of Psychology 2022
+        - Minor Studies in Gender & Women’s Studies
 
 - title: Experience
   type: time_table
