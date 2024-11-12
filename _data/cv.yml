@@ -13,7 +13,7 @@
   contents:
     - title: Master of Science in Cognitive Psychology
       institution: Sabanci University | Istanbul, Turkey
-      year: 09/2022 - current
+      year: 09/2022 - present
       description:
         - CGPA 3.95/4.00
         - "Academic Advisor: Dr. Cagla Aydin"
@@ -36,34 +36,76 @@
       institution: Sabanci University & CNRS/Côte d’Azur University
       year: Fall 2023 - present
       description:
+        - "→	“They Say” Makes Good Liars: An Investigation on Evidentiality in Language and Deception"
         - "PIs: Dr. Cagla Aydin & Dr. Seckin Arslan"
-        - A joint project between the Scientific and Technological Research Council of Turkey (TUBITAK) and the French Ministry of Foreign Affairs
-        - Studied the grammatical strategies people use when lying in English, French, Turkish, and Japanese
-        - Designed the experiments, collected & analyzed the data; and leading the writing of the second manuscript
+        - "A joint project between the Scientific and Technological Research Council of Turkey (TUBITAK) and the French Ministry of Foreign Affairs
+        - "Studied the grammatical strategies people use when lying in English, French, Turkish, and Japanese"
+        - "Designed the experiments, collected & analyzed the data; and leading the writing of the second manuscript"
+
     - title: Lab Manager
       institution: Culture, Language, & Autobiographical Memory (CLAM) Lab | Sabanci University
       year: Fall 2022 – present
       description:
-        - Held Autobiographical Interview coding workshops, contributed to the writing of project grant proposals, ethics applications, and project reports; attended weekly meetings and project/current literature discussions
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+        - "Held Autobiographical Interview coding workshops, contributed to the writing of project grant proposals, ethics applications, and project reports; attended weekly meetings and project/current literature discussions"
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Assistant
+      institution: Koc University & Sabanci University
+      year: Summer 2021 – present
       description:
+        - "→	The Role of Gestures in Autobiographical Memory"
+        - "PIs: Dr. Cagla Aydin & Dr. Tilbe Goksun"
+        - "Studied the effect of gesture use in autobiographical remembering in two separate studies"
+        - "Labelled the memory details in the past/future memory narratives and analyzed the data using SPSS"
+        - "Presented the results at multiple conference venues; working on writing the second manuscript"
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Research Assistant
+      institution: Sabanci University
+      year: Spring 2021 – present
+      description:
+        - "→	Visual Imagery Guides the Changes in Autobiographical Memory due to Shifting Perspective"
+        - "PI: Dr. Cagla Aydin"
+        - "Studied the effect of visual imagery skills in shifted autobiographical memory perspectives"
+        - "Labelled the memory details in the past and future memory narratives and conducted PCA using JASP"
+        - "Working on revisions of the manuscript"
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Research Intern
+      institution: KU Leuven & The University of Melbourne (remote)
+      year: Summer 2021 – Fall 2022
+      description:
+        - "→	Small World of Words Project (SWoW)"
+        - "Initiated the Turkish language branch of the Small World of Words project"
+        - "Worked on mapping the semantic relatedness network of the selected cue words"
+        - "Project web page: https://smallworldofwords.org/tr/project (English version: https://smallworldofwords.org/en/project)"
+
+    - title: Undergraduate Research Assistant
+      institution: Sabanci University
+      year: Fall 2021 – 2022
+      description: 
+        - "→	Living Conditions of the Syrian Refugees in Turkey"
+        - "PI: Dr. Aysecan Terzioglu"
+	      -	"Studied the housing, education, employment, and health conditions of Syrian refugees in Turkey"
+	      -	"Organized the qualitative data, created and entered ~40K labels for 970 participants using MAXQDA"
+	      -	"Scheduled meetings and interviewed with refugee associations, worked with minority groups"
+
+    - title: Undergraduate Research Assistant
+      institution: Sabanci University
+      year: Fall 2020 – Spring 2021
+      description: 
+      - "→	Autobiographical Memory Interview: Turkish adaptation study"
+      - "PI: Dr. Cagla Aydin"
+      -	"Worked on the Turkish adaptation of the Autobiographical Interview (AI) technique coding manual"
+      -	"Fine-tuned the memory detail categories in the English/Turkish memory narratives according to AI"
+      -	"Gathered the adaptation differences upon cross-linguistic incompatibilities on the project paper"
+
+    - title: Undergraduate Research Assistant
+      institution: Sabanci University	
+      year: Spring 2021 - Summer 2021
+      description:
+        - "→ 	TOXICFREE: A parent control application supported by artificial intelligence"
+        - "PI: Dr. Reyyan Yeniterzi & Dr. Cagla Aydin"
+        - "Project of the Scientific and Technological Research Council of Turkey, 1512 Techno-Initiative Capital Support Program"
+	      - "Assisted in developing a tool for children that filters hate speech in online platforms using Python"
+	      - "Labelled the “Twitter Posts” data for the toxicity levels to educate the artificial intelligence model"
 
 - title: Honors and Awards
   type: time_table
