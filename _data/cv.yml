@@ -64,7 +64,6 @@
         - "Studied the effect of visual imagery skills in shifted autobiographical memory perspectives"
         - "Labelled the memory details in the past and future memory narratives and conducted PCA using JASP"
         - "Working on revisions of the manuscript"
-
     - title: "Research Intern"
       institution: "KU Leuven & The University of Melbourne (remote)"
       year: "Summer 2021 – Fall 2022"
@@ -73,7 +72,6 @@
         - "Initiated the Turkish language branch of the Small World of Words project"
         - "Worked on mapping the semantic relatedness network of the selected cue words"
         - "Project web page:🔗https://smallworldofwords.org/tr/project (English version:🔗https://smallworldofwords.org/en/project)"
-
     - title: "Undergraduate Research Assistant"
       institution: "Sabanci University"
       year: "Fall 2021 – 2022"
@@ -83,7 +81,6 @@
         - "Studied the housing, education, employment, and health conditions of Syrian refugees in Turkey"
         - "Organized the qualitative data, created and entered ~40K labels for 970 participants using MAXQDA"
         - "Scheduled meetings and interviewed with refugee associations, worked with minority groups"
-
     - title: "Undergraduate Research Assistant"
       institution: "Sabanci University"
       year: "Fall 2020 – Spring 2021"
@@ -93,7 +90,6 @@
         - "Worked on the Turkish adaptation of the Autobiographical Interview (AI) technique coding manual"
         - "Fine-tuned the memory detail categories in the English/Turkish memory narratives according to AI"
         - "Gathered the adaptation differences upon cross-linguistic incompatibilities on the project paper"
-
     - title: "Undergraduate Research Assistant"
       institution: "Sabanci University"
       year: "Spring 2021 - Summer 2021"
@@ -101,8 +97,8 @@
         - "TOXICFREE: A parent control application supported by artificial intelligence"
         - "PI: Dr. Reyyan Yeniterzi & Dr. Cagla Aydin"
         - "Project of the Scientific and Technological Research Council of Turkey, 1512 Techno-Initiative Capital Support Program"
-       - "Assisted in developing a tool for children that filters hate speech in online platforms using Python"
-       - "Labelled the “Twitter Posts” data for the toxicity levels to educate the artificial intelligence model"
+        - "Assisted in developing a tool for children that filters hate speech in online platforms using Python"
+        - "Labelled the “Twitter Posts” data for the toxicity levels to educate the artificial intelligence model"
 
 - title: Honors and Awards
   type: time_table
