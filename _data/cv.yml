@@ -21,7 +21,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: \nBachelor of Arts in Psychology
+    - title: Bachelor of Arts in Psychology
       institution: Sabanci University | Istanbul, Turkey
       year: 09/2017 - 06/2022
       description:
@@ -32,23 +32,19 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: Sabanci University & CNRS/Côte d’Azur University
+      year: Fall 2023 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - "PIs: Dr. Cagla Aydin & Dr. Seckin Arslan"
+        - A joint project between the Scientific and Technological Research Council of Turkey (TUBITAK) and the French Ministry of Foreign Affairs
+        - Studied the grammatical strategies people use when lying in English, French, Turkish, and Japanese
+        - Designed the experiments, collected & analyzed the data; and leading the writing of the second manuscript
+    - title: Lab Manager
+      institution: Culture, Language, & Autobiographical Memory (CLAM) Lab | Sabanci University
+      year: Fall 2022 – present
       description:
-        - Description 1.
-        - Description 2.
-
+        - Held Autobiographical Interview coding workshops, contributed to the writing of project grant proposals, ethics applications, and project reports; attended weekly meetings and project/current literature discussions
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
       year: 1917-1933
