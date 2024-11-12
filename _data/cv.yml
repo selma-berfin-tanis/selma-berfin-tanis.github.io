@@ -160,7 +160,7 @@
         - Description 2.
 
 - title: References
-  type: list
+  type: nested_list
   contents:
     - title: "Dr. Cagla Aydin"
       items:
