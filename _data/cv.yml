@@ -166,7 +166,31 @@
         - Description 1.
         - Description 2.
 
-- title: Other Interests
+- title: References
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: "Dr. Cagla Aydin"
+      items:
+        - "Associate Professor of Psychology"
+        - "Faculty of Arts & Social Sciences | Sabanci University"
+        - "cagla.aydin@sabanciuniv.edu"
+    - title: "Dr. Seckin Arslan"
+      items:
+        - "Associate Researcher (Neurolinguistics / Cognitive and Behavioural Neurosciences)"
+        - "Bases, Corpus, Langage | CNRS & Côte d’Azur University"
+        - "seckin.arslan@univ-cotedazur.fr"
+    - title: "Dr. Aysecan Terzioglu"
+      items:
+        - "Associate Professor of Cultural Studies & Gender Studies"
+        - "Faculty of Arts & Social Sciences | Sabanci University"
+        - "aysecan.terzioglu@sabanciuniv.edu"
+    - title: "Dr. Simon De Deyne"
+      items:
+        - "Senior Research Associate, Cognitive Scientist"
+        - "Melbourne School of Psychological Sciences | The University of Melbourne"
+        - "simon.dedeyne@unimelb.edu.au"
+    - title: "Dr. Eren Günseli"
+      items:
+        - "Assistant Professor of Psychology"
+        - "Faculty of Arts & Social Sciences | Sabanci University"
+        - "eren.gunseli@sabanciuniv.edu"
