@@ -80,9 +80,9 @@
       description: 
         - "Living Conditions of the Syrian Refugees in Turkey"
         - "PI: Dr. Aysecan Terzioglu"
-	      -	"Studied the housing, education, employment, and health conditions of Syrian refugees in Turkey"
-	      -	"Organized the qualitative data, created and entered ~40K labels for 970 participants using MAXQDA"
-	      -	"Scheduled meetings and interviewed with refugee associations, worked with minority groups"
+        - "Studied the housing, education, employment, and health conditions of Syrian refugees in Turkey"
+        - "Organized the qualitative data, created and entered ~40K labels for 970 participants using MAXQDA"
+        - "Scheduled meetings and interviewed with refugee associations, worked with minority groups"
 
     - title: "Undergraduate Research Assistant"
       institution: "Sabanci University"
@@ -90,9 +90,9 @@
       description:
         - "Autobiographical Memory Interview: Turkish adaptation study"
         - "PI: Dr. Cagla Aydin"
-        -	"Worked on the Turkish adaptation of the Autobiographical Interview (AI) technique coding manual"
-        -	"Fine-tuned the memory detail categories in the English/Turkish memory narratives according to AI"
-        -	"Gathered the adaptation differences upon cross-linguistic incompatibilities on the project paper"
+        - "Worked on the Turkish adaptation of the Autobiographical Interview (AI) technique coding manual"
+        - "Fine-tuned the memory detail categories in the English/Turkish memory narratives according to AI"
+        - "Gathered the adaptation differences upon cross-linguistic incompatibilities on the project paper"
 
     - title: "Undergraduate Research Assistant"
       institution: "Sabanci University"
@@ -101,8 +101,8 @@
         - "TOXICFREE: A parent control application supported by artificial intelligence"
         - "PI: Dr. Reyyan Yeniterzi & Dr. Cagla Aydin"
         - "Project of the Scientific and Technological Research Council of Turkey, 1512 Techno-Initiative Capital Support Program"
-	      - "Assisted in developing a tool for children that filters hate speech in online platforms using Python"
-	      - "Labelled the “Twitter Posts” data for the toxicity levels to educate the artificial intelligence model"
+       - "Assisted in developing a tool for children that filters hate speech in online platforms using Python"
+       - "Labelled the “Twitter Posts” data for the toxicity levels to educate the artificial intelligence model"
 
 - title: Honors and Awards
   type: time_table
