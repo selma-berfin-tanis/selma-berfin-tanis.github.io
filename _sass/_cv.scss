@@ -138,7 +138,7 @@ td.list-group-school {
 
 p.list-group-time {
   font-size: 0.7rem;
-  padding-left: 0.25rem;
+  padding-left: 0.5rem;
 }
 
 td.list-group-link {
@@ -181,7 +181,7 @@ span.badge-toc {
 ul.timeline li::before {
   content: "";
   min-height: 2.5rem;
-  width: 1.5px;
+  width: 1px;
   background: var(--global-text-color);
   margin: 0;
   padding: 0;
