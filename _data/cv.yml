@@ -103,45 +103,45 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2024
-      items:
-        title: TUBITAK 2224-A - Grant Program for Participation in Scientific Meetings Abroad - June
-        items: 
-          - $2000, International conference participation grant for Turkish scientists
-        title: The PHC (Hubert Curien Partnership) Bosphorus Programme Project Fund - June
-        items: 
-          - €1000, Fund for accommodation in France for a project meeting, provided by the French Ministry of Europe and Foreign Affairs (MEAE) & the French Ministry of Higher Education and Research (MESR)
-        title: Association for Psychological Science (APS) Student Travel Award - May
-          items:
-            - $250, APS 2024 Annual Convention travel fund
-        title: SU Faculty of Arts & Social Sciences (FASS) International Conference Grant - April
-          items:
-            - €400, International conference participation grant for selected Sabanci University graduate students
-    - year: 2023
-      items:
-        title: TUBITAK ARDEB Project Scholarship - Sept
-        items:
-          - Monthly stipend (2 years) and project travel fund ($1000)
-    - year: 2022
-      items:
-        title: TUBITAK BIDEB 2210/A MSc/MA Scholarship Program - September
-        items:
-          - Monthly stipend (2 years), based on academic achievement (declined)
-        title: Sabanci University Graduate Studies Full Scholarship - Sept
-        items:
-          - Sabanci University full tuition fee ($24,500/year, 3 years) and a monthly stipend (2 years)
+    - title: TUBITAK 2224-A - Grant Program for Participation in Scientific Meetings Abroad
+      year: June 2024
+      description: $2000, International conference participation grant for Turkish scientists
 
-    - year: 2017-2022
-      items:
-        title: Sabanci University, Dean’s List - from Fall 2018 to Spring 2022
-        items:
-          - High Honor, present in all semesters
-        title: SUGender Scholarship - Gender & Women’s Studies Center of Excellence - October 2020
-        items:
-          - Monthly stipend during the academic year
-        title: Outstanding Achievement Metin Sabanci Full Scholarship - September 2017
-        items:
-          - Sabanci University full tuition fee ($24,500/year, 5 years) and a monthly stipend based on a ranking of 0.15\% in SAT-like nationwide university entrance exam among 2 million high school students
+    - title: The PHC (Hubert Curien Partnership) Bosphorus Programme Project Fund
+      year: June 2024
+      description: €1000, Fund for accommodation in France for a project meeting, provided by the French Ministry of Europe and Foreign Affairs (MEAE) & the French Ministry of Higher Education and Research (MESR)
+
+    - title: Association for Psychological Science (APS) Student Travel Award
+      year: May 2024
+      description: $250, APS 2024 Annual Convention travel fund
+
+    - title: SU Faculty of Arts & Social Sciences (FASS) International Conference Grant
+      year: April 2024
+      desription: €400, International conference participation grant for selected Sabanci University graduate students
+
+    - title: TUBITAK ARDEB Project Scholarship
+      year: September 2023
+      desription: Monthly stipend (2 years) and project travel fund ($1000)
+
+    - title: TUBITAK BIDEB 2210/A MSc/MA Scholarship Program
+      year: September 2022
+      desription: Monthly stipend (2 years), based on academic achievement (declined)
+    
+    - title: Sabanci University Graduate Studies Full Scholarship
+      year: September 2022
+      desription: Sabanci University full tuition fee ($24,500/year, 3 years) and a monthly stipend (2 years)
+
+    - title: Sabanci University, Dean’s List
+      year: from Fall 2018 to Spring 2022
+      desription: High Honor, present in all semesters
+
+    - title: SUGender Scholarship - Gender & Women’s Studies Center of Excellence
+      year: October 2020
+      desription: Monthly stipend during the academic year
+
+    - title: Outstanding Achievement Metin Sabanci Full Scholarship
+      year: September 2017
+      desription: Sabanci University full tuition fee ($24,500/year, 5 years) and a monthly stipend based on a ranking of 0.15\% in SAT-like nationwide university entrance exam among 2 million high school students
 
 
 - title: References
