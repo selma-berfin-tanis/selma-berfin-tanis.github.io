@@ -13,7 +13,7 @@ profile:
     <p>Üniversite Caddesi No:27</p>
     <p>Orhanli, Tuzla/Istanbul, 34956</p>
 
-news: false
+news: true
 selected_papers: false
 social: true
 ---
